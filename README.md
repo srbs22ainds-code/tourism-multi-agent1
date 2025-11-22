@@ -36,23 +36,6 @@ Architecture	Multi-agent system
 Libraries	requests, streamlit
 Deployment	Streamlit Cloud
 
-📁 Project Structure
-multi_agent_tourism/
-│
-├── agents/
-│   ├── weather_agent.py
-│   ├── places_agent.py
-│
-├── apis/
-│   ├── geocoding_api.py
-│   ├── weather_api.py
-│   ├── places_api.py
-│
-├── app.py                <- Streamlit UI
-├── main.py               <- CLI version
-├── requirements.txt
-└── README.md
-
 💡 Features
 
 🔹 AI agent-based architecture (scalable & clean)
